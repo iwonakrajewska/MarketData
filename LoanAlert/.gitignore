@@ -1,0 +1,10 @@
+/target/archive*
+/target/classes
+/target/generated*
+/target/maven*
+/target/surefire*
+/target/test*
+/.settings/
+/.classpath
+/.project
+/target/
